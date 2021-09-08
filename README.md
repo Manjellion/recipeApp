@@ -1,4 +1,4 @@
 # recipeApp
-HTML, CSS, JS
+Tools: HTML, CSS, JS
 
 Live Server: https://favourmeals.netlify.app/ 
