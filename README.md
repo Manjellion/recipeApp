@@ -6,4 +6,4 @@ Live Server: https://favourmeals.netlify.app/
 
 # Installation
 Open Terminal and copy & paste this in command line <br>
-git clone ssh://https://github.com/Manjellion/recipeApp.git
+<code>git clone ssh://https://github.com/Manjellion/recipeApp.git</code>
